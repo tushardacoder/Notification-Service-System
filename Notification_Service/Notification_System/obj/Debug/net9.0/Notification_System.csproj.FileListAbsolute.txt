@@ -1,0 +1,15 @@
+F:\Notification-Service-System\Notification_Service\Notification_System\bin\Debug\net9.0\Notification_System.exe
+F:\Notification-Service-System\Notification_Service\Notification_System\bin\Debug\net9.0\Notification_System.deps.json
+F:\Notification-Service-System\Notification_Service\Notification_System\bin\Debug\net9.0\Notification_System.runtimeconfig.json
+F:\Notification-Service-System\Notification_Service\Notification_System\bin\Debug\net9.0\Notification_System.dll
+F:\Notification-Service-System\Notification_Service\Notification_System\bin\Debug\net9.0\Notification_System.pdb
+F:\Notification-Service-System\Notification_Service\Notification_System\obj\Debug\net9.0\Notification_System.GeneratedMSBuildEditorConfig.editorconfig
+F:\Notification-Service-System\Notification_Service\Notification_System\obj\Debug\net9.0\Notification_System.AssemblyInfoInputs.cache
+F:\Notification-Service-System\Notification_Service\Notification_System\obj\Debug\net9.0\Notification_System.AssemblyInfo.cs
+F:\Notification-Service-System\Notification_Service\Notification_System\obj\Debug\net9.0\Notification_System.csproj.CoreCompileInputs.cache
+F:\Notification-Service-System\Notification_Service\Notification_System\obj\Debug\net9.0\Notification_System.sourcelink.json
+F:\Notification-Service-System\Notification_Service\Notification_System\obj\Debug\net9.0\Notification_System.dll
+F:\Notification-Service-System\Notification_Service\Notification_System\obj\Debug\net9.0\refint\Notification_System.dll
+F:\Notification-Service-System\Notification_Service\Notification_System\obj\Debug\net9.0\Notification_System.pdb
+F:\Notification-Service-System\Notification_Service\Notification_System\obj\Debug\net9.0\Notification_System.genruntimeconfig.cache
+F:\Notification-Service-System\Notification_Service\Notification_System\obj\Debug\net9.0\ref\Notification_System.dll
